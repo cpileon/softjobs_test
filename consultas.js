@@ -4,7 +4,7 @@ const { Pool } = require('pg')
 const pool = new Pool({
     host: 'dpg-ckfjljo4sbec73cvarog-a',
     user: 'usuarios_9rfw_user',
-    password: 'usuarios_9rfw_user',
+    password: 'A8PtkqzLspAbWVLjqNtRno60q59Vpam8',
     database: 'usuarios_9rfw',
     port: 5432,
     allowExitOnIdle: true
